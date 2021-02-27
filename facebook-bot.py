@@ -2,7 +2,7 @@ from fbchat import Client
 from fbchat.models import Message
 
 # facebook user credentials
-username = "email.or.username"
+username = "username.or.email"
 password = "account.password"
 
 # login
